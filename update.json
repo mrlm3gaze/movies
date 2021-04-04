@@ -4,24 +4,16 @@
 			"app_version":"1.0.0.0",
 			"devlopper":"MR_LM3GAZE",
 			"company":"Pro Windroid Company",
-			"url":"http://localhost:1234/movies/",
+			"url":"https://raw.githubusercontent.com/mrlm3gaze/movies/main/",
 			"packs_version":"1.0.0.0",
 			"packs":[
 				{
 					"name":"Movies",
-					"url":"Movies.exe"
+					"url":"*.exe"
 				},
 				{
 					"name":"Config",
-					"url":"Movies.exe.config"
-				},
-				{
-					"name":"Movies RAR",
-					"url":"Movies.rar"
-				},
-				{
-					"name":"Player",
-					"url":"mpv.exe"
+					"url":"*.exe.config"
 				}
 			]
 		}	
